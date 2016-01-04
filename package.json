@@ -7,5 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Jakub Janczak <kubek2k@gmail.com> (http://github.com/kubek2k)",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "properties-reader": "0.0.14"
+  }
 }
